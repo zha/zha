@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Contact: [zha.shenb@gmail.com](mailto:zha.shenb@gmail.com)
 
 <!--
 **zha/zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
