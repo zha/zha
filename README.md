@@ -1,5 +1,5 @@
 ### Hi there 👋
-Please contact me at [`szhang.b@gmail.com`](mailto:szhang.b@gmail.com).
+Please contact me at [`zha.inbox@gmail.com`](mailto:zha.inbox@gmail.com).
 
 <!--
 **zha/zha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
